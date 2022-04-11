@@ -2,5 +2,5 @@
 	"ip":"play.titansmpbd.xyz",
 	"port": "25905",
 	"name": "nubra_ruti",
-	"auto-night-skip"false"
+	"auto-night-skip":"false"
 }
